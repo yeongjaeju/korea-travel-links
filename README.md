@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-06-05 — 8 posts
+> Last updated: 2026-06-06 — 9 posts
 
 ## Posts
 
@@ -29,6 +29,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
 
 - [Jeju Haenyeo: Everything You Need to Know Before You Visit](https://k-travel.advenue.xyz/2026/06/jeju-haenyeo-everything-you-need-to.html)  
   _Jeju Island, Culture & History_
+
+- [Drinking in Korea: Complete Guide for Tourists 2026](https://k-travel.advenue.xyz/2026/06/drinking-in-korea-complete-guide-for.html)  
+  _Korea Travel, Food & Drink, Korean Culture, Travel Tips_
 
 ---
 
