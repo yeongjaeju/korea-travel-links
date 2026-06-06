@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-06-06 — 9 posts
+> Last updated: 2026-06-06 — 10 posts
 
 ## Posts
 
@@ -32,6 +32,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
 
 - [Drinking in Korea: Complete Guide for Tourists 2026](https://k-travel.advenue.xyz/2026/06/drinking-in-korea-complete-guide-for.html)  
   _Korea Travel, Food & Drink, Korean Culture, Travel Tips_
+
+- [Soju Guide: Types, ABV, Brands, and How to Drink It in Korea (2026)](https://k-travel.advenue.xyz/2026/06/soju-guide-types-abv-brands-and-how-to.html)  
+  _Food & Drink, Korean Culture, Korea Travel Tips_
 
 ---
 
