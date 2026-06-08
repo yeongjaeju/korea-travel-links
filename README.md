@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-06-07 — 11 posts
+> Last updated: 2026-06-08 — 12 posts
 
 ## Posts
 
@@ -37,6 +37,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
   _Food & Drink, Korean Culture, Korea Travel Tips_
 
 - [Makgeolli Guide: Types, ABV, How to Drink, and Where to Buy in Korea (2026)](https://k-travel.advenue.xyz/2026/06/makgeolli-guide-types-abv-how-to-drink.html)  
+  _Food & Drink, Korean Culture, Korea Travel Tips_
+
+- [Korean Drinks You Must Try Beyond Soju — Sikhye, Banana Milk, Boricha, and More](https://k-travel.advenue.xyz/2026/06/korean-drinks-you-must-try-beyond-soju.html)  
   _Food & Drink, Korean Culture, Korea Travel Tips_
 
 ---
