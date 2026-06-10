@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-06-09 — 13 posts
+> Last updated: 2026-06-10 — 14 posts
 
 ## Posts
 
@@ -44,6 +44,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
 
 - [Korean Beer Guide: Brands, Craft Beer, Somaek, and Where to Drink (2026)](https://k-travel.advenue.xyz/2026/06/korean-beer-guide-brands-craft-beer.html)  
   _Food & Drink, Korean Culture, Korea Travel Tips_
+
+- [Korean Drinking Games Guide: Rules, Tips, and How to Play](https://k-travel.advenue.xyz/2026/06/korean-drinking-games-guide-rules-tips.html)  
+  _Korean Drinking Culture, Korea Travel Tips_
 
 ---
 
