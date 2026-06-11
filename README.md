@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-06-10 — 14 posts
+> Last updated: 2026-06-11 — 15 posts
 
 ## Posts
 
@@ -47,6 +47,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
 
 - [Korean Drinking Games Guide: Rules, Tips, and How to Play](https://k-travel.advenue.xyz/2026/06/korean-drinking-games-guide-rules-tips.html)  
   _Korean Drinking Culture, Korea Travel Tips_
+
+- [Anju Guide — Korean Drinking Snacks You Need to Know](https://k-travel.advenue.xyz/2026/06/anju-guide-korean-drinking-snacks-you.html)  
+  _Korean Food, Korea Travel Tips, Korean Drinking Culture_
 
 ---
 
