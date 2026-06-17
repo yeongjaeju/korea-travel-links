@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-06-12 — 16 posts
+> Last updated: 2026-06-17 — 18 posts
 
 ## Posts
 
@@ -53,6 +53,12 @@ Practical travel guides for visiting South Korea. Updated regularly.
 
 - [Korean Traditional Spirits Guide: Jeontongju Types, Where to Try, and How to Buy](https://k-travel.advenue.xyz/2026/06/korean-traditional-spirits-guide.html)  
   _Korean Drinks, Korea Travel Tips, Korean Food_
+
+- [Buying Alcohol at Korean Convenience Stores: What to Get and How Much It Costs](https://k-travel.advenue.xyz/2026/06/buying-alcohol-at-korean-convenience.html)  
+  _Korean Drinking Culture, Korea Travel Tips, Korean Food_
+
+- [Pojangmacha Guide: What to Expect at a Korean Street Tent Bar](https://k-travel.advenue.xyz/2026/06/pojangmacha-guide-what-to-expect-at.html)  
+  _Korean Drinking Culture, Korea Travel Tips, Korean Food_
 
 ---
 
