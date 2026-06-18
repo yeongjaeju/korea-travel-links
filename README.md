@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-06-17 — 19 posts
+> Last updated: 2026-06-18 — 20 posts
 
 ## Posts
 
@@ -62,6 +62,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
 
 - [Korean Hangover Cures: What to Eat and Drink the Morning After](https://k-travel.advenue.xyz/2026/06/korean-hangover-cures-what-to-eat-and.html)  
   _Korean Food, Korean Drinking Culture, Korea Travel Tips_
+
+- [Drinking Alone in Korea: The Complete Honsul Culture Guide](https://k-travel.advenue.xyz/2026/06/drinking-alone-in-korea-complete-honsul.html)  
+  _Korean Drinking Culture, Korea Travel Tips, Korean Food_
 
 ---
 
