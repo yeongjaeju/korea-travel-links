@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-06-19 — 21 posts
+> Last updated: 2026-06-20 — 22 posts
 
 ## Posts
 
@@ -66,7 +66,10 @@ Practical travel guides for visiting South Korea. Updated regularly.
 - [Drinking Alone in Korea: The Complete Honsul Culture Guide](https://k-travel.advenue.xyz/2026/06/drinking-alone-in-korea-complete-honsul.html)  
   _Korean Drinking Culture, Korea Travel Tips, Korean Food_
 
-- [What to Do in Gangnam, Seoul — Complete Neighborhood Guide](https://k-travel.advenue.xyz/)  
+- [What to Do in Gangnam, Seoul — Complete Neighborhood Guide](https://k-travel.advenue.xyz/2026/06/what-to-do-in-gangnam-seoul-complete.html)  
+  _Seoul Neighborhoods, Korea Travel Tips, Seoul Travel_
+
+- [What to Do in Hongdae, Seoul — Complete Neighborhood Guide 2026](https://k-travel.advenue.xyz/2026/06/what-to-do-in-hongdae-seoul-complete.html)  
   _Seoul Neighborhoods, Korea Travel Tips, Seoul Travel_
 
 ---
