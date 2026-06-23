@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-06-20 — 22 posts
+> Last updated: 2026-06-23 — 23 posts
 
 ## Posts
 
@@ -70,6 +70,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
   _Seoul Neighborhoods, Korea Travel Tips, Seoul Travel_
 
 - [What to Do in Hongdae, Seoul — Complete Neighborhood Guide 2026](https://k-travel.advenue.xyz/2026/06/what-to-do-in-hongdae-seoul-complete.html)  
+  _Seoul Neighborhoods, Korea Travel Tips, Seoul Travel_
+
+- [What to Do in Myeongdong, Seoul — Complete Neighborhood Guide](https://k-travel.advenue.xyz/2026/06/what-to-do-in-myeongdong-seoul-complete.html)  
   _Seoul Neighborhoods, Korea Travel Tips, Seoul Travel_
 
 ---
