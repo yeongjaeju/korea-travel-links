@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-06-24 — 24 posts
+> Last updated: 2026-06-26 — 25 posts
 
 ## Posts
 
@@ -76,6 +76,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
   _Seoul Neighborhoods, Korea Travel Tips, Seoul Travel_
 
 - [What to Do in Itaewon, Seoul — Complete Neighborhood Guide 2026](https://k-travel.advenue.xyz/2026/06/what-to-do-in-itaewon-seoul-complete.html)  
+  _Seoul Neighborhoods, Korea Travel Tips, Seoul Travel_
+
+- [What to Do in Seongsu, Seoul — Complete Neighborhood Guide 2026](https://k-travel.advenue.xyz/2026/06/what-to-do-in-seongsu-seoul-complete.html)  
   _Seoul Neighborhoods, Korea Travel Tips, Seoul Travel_
 
 ---
