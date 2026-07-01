@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-07-01 — 32 posts
+> Last updated: 2026-07-01 — 27 posts
 
 ## Posts
 
@@ -30,7 +30,7 @@ Practical travel guides for visiting South Korea. Updated regularly.
 - [Jeju Haenyeo: Everything You Need to Know Before You Visit](https://k-travel.advenue.xyz/2026/06/jeju-haenyeo-everything-you-need-to.html)  
   _Jeju Island, Culture & History_
 
-- [Drinking in Korea: Complete Guide for Tourists 2026](https://k-travel.advenue.xyz/2026/06/drinking-in-korea-complete-guide-for.html)  
+- [Drinking in Korea: Complete Guide for Tourists 2026](https://k-travel.advenue.xyz/2026/07/drinking-in-korea-complete-guide-for.html)  
   _Korea Travel, Food & Drink, Korean Culture, Travel Tips_
 
 - [Soju Guide: Types, ABV, Brands, and How to Drink It in Korea (2026)](https://k-travel.advenue.xyz/2026/06/soju-guide-types-abv-brands-and-how-to.html)  
@@ -39,16 +39,16 @@ Practical travel guides for visiting South Korea. Updated regularly.
 - [Makgeolli Guide: Types, ABV, How to Drink, and Where to Buy in Korea (2026)](https://k-travel.advenue.xyz/2026/06/makgeolli-guide-types-abv-how-to-drink.html)  
   _Food & Drink, Korean Culture, Korea Travel Tips_
 
-- [Korean Drinks You Must Try Beyond Soju — Sikhye, Banana Milk, Boricha, and More](https://k-travel.advenue.xyz/2026/06/korean-drinks-you-must-try-beyond-soju.html)  
+- [Korean Drinks You Must Try Beyond Soju — Sikhye, Banana Milk, Boricha, and More](https://k-travel.advenue.xyz/2026/07/korean-drinks-you-must-try-beyond-soju.html)  
   _Food & Drink, Korean Culture, Korea Travel Tips_
 
-- [Korean Beer Guide: Brands, Craft Beer, Somaek, and Where to Drink (2026)](https://k-travel.advenue.xyz/2026/06/korean-beer-guide-brands-craft-beer.html)  
+- [Korean Beer Guide: Brands, Craft Beer, Somaek, and Where to Drink (2026)](https://k-travel.advenue.xyz/2026/07/korean-beer-guide-brands-craft-beer.html)  
   _Food & Drink, Korean Culture, Korea Travel Tips_
 
-- [Korean Drinking Games Guide: Rules, Tips, and How to Play](https://k-travel.advenue.xyz/2026/06/korean-drinking-games-guide-rules-tips.html)  
+- [Korean Drinking Games Guide: Rules, Tips, and How to Play](https://k-travel.advenue.xyz/2026/07/korean-drinking-games-guide-rules-tips.html)  
   _Korean Drinking Culture, Korea Travel Tips_
 
-- [Anju Guide — Korean Drinking Snacks You Need to Know](https://k-travel.advenue.xyz/2026/06/anju-guide-korean-drinking-snacks-you.html)  
+- [Anju Guide — Korean Drinking Snacks You Need to Know](https://k-travel.advenue.xyz/2026/07/anju-guide-korean-drinking-snacks-you.html)  
   _Korean Food, Korea Travel Tips, Korean Drinking Culture_
 
 - [Korean Traditional Spirits Guide: Jeontongju Types, Where to Try, and How to Buy](https://k-travel.advenue.xyz/2026/06/korean-traditional-spirits-guide.html)  
@@ -86,21 +86,6 @@ Practical travel guides for visiting South Korea. Updated regularly.
 
 - [HYBE and BTS Fan Guide to Seoul — Is HYBE Insight Open? (2026)](https://k-travel.advenue.xyz/2026/07/hybe-and-bts-fan-guide-to-seoul-is-hybe.html)  
   _K-Pop, Seoul Travel, Korea Travel Tips_
-
-- [Drinking in Korea: Complete Guide for Tourists 2026](https://k-travel.advenue.xyz/2026/07/drinking-in-korea-complete-guide-for.html)  
-  _Korea Travel, Food & Drink, Korean Culture, Travel Tips_
-
-- [Korean Drinks You Must Try Beyond Soju — Sikhye, Banana Milk, Boricha, and More](https://k-travel.advenue.xyz/2026/07/korean-drinks-you-must-try-beyond-soju.html)  
-  _Food & Drink, Korean Culture, Korea Travel Tips_
-
-- [Korean Beer Guide: Brands, Craft Beer, Somaek, and Where to Drink (2026)](https://k-travel.advenue.xyz/2026/07/korean-beer-guide-brands-craft-beer.html)  
-  _Food & Drink, Korean Culture, Korea Travel Tips_
-
-- [Korean Drinking Games Guide: Rules, Tips, and How to Play](https://k-travel.advenue.xyz/2026/07/korean-drinking-games-guide-rules-tips.html)  
-  _Korean Drinking Culture, Korea Travel Tips_
-
-- [Anju Guide — Korean Drinking Snacks You Need to Know](https://k-travel.advenue.xyz/2026/07/anju-guide-korean-drinking-snacks-you.html)  
-  _Korean Food, Korea Travel Tips, Korean Drinking Culture_
 
 ---
 
