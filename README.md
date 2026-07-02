@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-07-01 — 27 posts
+> Last updated: 2026-07-02 — 27 posts
 
 ## Posts
 
