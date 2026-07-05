@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-07-02 — 27 posts
+> Last updated: 2026-07-05 — 28 posts
 
 ## Posts
 
@@ -85,6 +85,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
   _Seoul Travel, Korea Travel Tips, K-Pop_
 
 - [HYBE and BTS Fan Guide to Seoul — Is HYBE Insight Open? (2026)](https://k-travel.advenue.xyz/2026/07/hybe-and-bts-fan-guide-to-seoul-is-hybe.html)  
+  _K-Pop, Seoul Travel, Korea Travel Tips_
+
+- [SM Fan Guide to Seoul — KWANGYA@SEOUL for EXO, aespa, NCT (2026)](https://k-travel.advenue.xyz/2026/07/sm-fan-guide-to-seoul-kwangyaseoul-for.html)  
   _K-Pop, Seoul Travel, Korea Travel Tips_
 
 ---
