@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-07-07 — 29 posts
+> Last updated: 2026-07-12 — 30 posts
 
 ## Posts
 
@@ -92,6 +92,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
 
 - [JYP Entertainment Fan Guide to Seoul — Building, Merch & 2026 Concerts](https://k-travel.advenue.xyz/2026/07/jyp-entertainment-fan-guide-to-seoul.html)  
   _K-Pop, Seoul Travel, Korea Travel Tips_
+
+- [YG Entertainment Fan Guide to Seoul — BLACKPINK, BIGBANG & Fan Spots (2026)](https://k-travel.advenue.xyz/2026/07/yg-entertainment-fan-guide-to-seoul.html)  
+  _K-Pop, Seoul, Korea Travel_
 
 ---
 
