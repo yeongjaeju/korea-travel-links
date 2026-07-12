@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-07-12 — 30 posts
+> Last updated: 2026-07-12 — 31 posts
 
 ## Posts
 
@@ -95,6 +95,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
 
 - [YG Entertainment Fan Guide to Seoul — BLACKPINK, BIGBANG & Fan Spots (2026)](https://k-travel.advenue.xyz/2026/07/yg-entertainment-fan-guide-to-seoul.html)  
   _K-Pop, Seoul, Korea Travel_
+
+- [Waterbomb Festival Korea 2026: Tickets, Lineup, and What to Expect](https://k-travel.advenue.xyz/2026/07/waterbomb-festival-korea-2026-tickets.html)  
+  _K-Pop, Korea Travel, Festivals_
 
 ---
 
