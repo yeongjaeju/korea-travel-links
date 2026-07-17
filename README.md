@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-07-17 — 32 posts
+> Last updated: 2026-07-18 — 33 posts
 
 ## Posts
 
@@ -101,6 +101,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
 
 - [Can Foreigners Use Korean ATMs? Fees, Locations, and Tips (2026)](https://k-travel.advenue.xyz/2026/07/can-foreigners-use-korean-atms-fees.html)  
   _Korea Travel Tips, Korea Money Guide, Seoul Travel_
+
+- [How to Attend a K-pop Music Show in Korea — Foreigner Guide 2026](https://k-travel.advenue.xyz/2026/07/how-to-attend-k-pop-music-show-in-korea.html)  
+  _K-pop, Korea Travel Tips, Seoul Travel_
 
 ---
 
