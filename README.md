@@ -2,7 +2,7 @@
 
 Practical travel guides for visiting South Korea. Updated regularly.
 
-> Last updated: 2026-07-12 — 31 posts
+> Last updated: 2026-07-17 — 32 posts
 
 ## Posts
 
@@ -98,6 +98,9 @@ Practical travel guides for visiting South Korea. Updated regularly.
 
 - [Waterbomb Festival Korea 2026: Tickets, Lineup, and What to Expect](https://k-travel.advenue.xyz/2026/07/waterbomb-festival-korea-2026-tickets.html)  
   _K-Pop, Korea Travel, Festivals_
+
+- [Can Foreigners Use Korean ATMs? Fees, Locations, and Tips (2026)](https://k-travel.advenue.xyz/2026/07/can-foreigners-use-korean-atms-fees.html)  
+  _Korea Travel Tips, Korea Money Guide, Seoul Travel_
 
 ---
 
